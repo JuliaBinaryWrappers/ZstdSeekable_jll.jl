@@ -1,0 +1,143 @@
+[[ZstdSeekable]]
+arch = "aarch64"
+git-tree-sha1 = "b2833435b5cb1664dee15cf2c387f30e53ac16d8"
+os = "macos"
+
+    [[ZstdSeekable.download]]
+    sha256 = "6fadbadf9ff4f7de03b631fc2d44c8da60b25f6ec77739af29b8bf11359822cc"
+    url = "https://github.com/JuliaBinaryWrappers/ZstdSeekable_jll.jl/releases/download/ZstdSeekable-v1.5.6+0/ZstdSeekable.v1.5.6.aarch64-apple-darwin.tar.gz"
+[[ZstdSeekable]]
+arch = "aarch64"
+git-tree-sha1 = "78f0eff34eae913c39e836c0ca36195d37c8655d"
+libc = "glibc"
+os = "linux"
+
+    [[ZstdSeekable.download]]
+    sha256 = "e318eb987c2da40f059f6f8004bb88b731db1b73130eeb672f60d8f8c7755360"
+    url = "https://github.com/JuliaBinaryWrappers/ZstdSeekable_jll.jl/releases/download/ZstdSeekable-v1.5.6+0/ZstdSeekable.v1.5.6.aarch64-linux-gnu.tar.gz"
+[[ZstdSeekable]]
+arch = "aarch64"
+git-tree-sha1 = "092f527320fab4ffdfd8a80a95489ad7847ff1ef"
+libc = "musl"
+os = "linux"
+
+    [[ZstdSeekable.download]]
+    sha256 = "18eac2b5bfdb3e5544842aba72f9bc4409b00079b41c328d40a9cbb1e9cd502d"
+    url = "https://github.com/JuliaBinaryWrappers/ZstdSeekable_jll.jl/releases/download/ZstdSeekable-v1.5.6+0/ZstdSeekable.v1.5.6.aarch64-linux-musl.tar.gz"
+[[ZstdSeekable]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "7c1ac858ba282e168074c1fb95d7e007363ad549"
+libc = "glibc"
+os = "linux"
+
+    [[ZstdSeekable.download]]
+    sha256 = "02f44818005f6af53e4207ce4d6b769e7e3dcc838b1541f607a851d1e19fdf85"
+    url = "https://github.com/JuliaBinaryWrappers/ZstdSeekable_jll.jl/releases/download/ZstdSeekable-v1.5.6+0/ZstdSeekable.v1.5.6.armv6l-linux-gnueabihf.tar.gz"
+[[ZstdSeekable]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "63398656a0ad62e322665fadba9585ce648f8340"
+libc = "musl"
+os = "linux"
+
+    [[ZstdSeekable.download]]
+    sha256 = "c61b6504315ada19ee1863c38c22476b8a7ae567b3338873004cb6ba7970c623"
+    url = "https://github.com/JuliaBinaryWrappers/ZstdSeekable_jll.jl/releases/download/ZstdSeekable-v1.5.6+0/ZstdSeekable.v1.5.6.armv6l-linux-musleabihf.tar.gz"
+[[ZstdSeekable]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "213d389bd22f708bd26701a072175b911d01a76e"
+libc = "glibc"
+os = "linux"
+
+    [[ZstdSeekable.download]]
+    sha256 = "96db2606d267cc2552f15ad2a15b504678b13619d28f00c7ebb396304bc3cf1d"
+    url = "https://github.com/JuliaBinaryWrappers/ZstdSeekable_jll.jl/releases/download/ZstdSeekable-v1.5.6+0/ZstdSeekable.v1.5.6.armv7l-linux-gnueabihf.tar.gz"
+[[ZstdSeekable]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "c361fd25de72b002c16773a9bf7fe89cf75e110a"
+libc = "musl"
+os = "linux"
+
+    [[ZstdSeekable.download]]
+    sha256 = "57defd556a867a3917e183931a38d73dd721878ef9da3fbeff92490dce15a0f2"
+    url = "https://github.com/JuliaBinaryWrappers/ZstdSeekable_jll.jl/releases/download/ZstdSeekable-v1.5.6+0/ZstdSeekable.v1.5.6.armv7l-linux-musleabihf.tar.gz"
+[[ZstdSeekable]]
+arch = "i686"
+git-tree-sha1 = "bc63cde72f3a87e94d0a68e976ecf76acae0b8c0"
+libc = "glibc"
+os = "linux"
+
+    [[ZstdSeekable.download]]
+    sha256 = "1b9ff99816657c7b9d98efc70ea4a4f196c296b02deafe2116f8f9b2c8e5c573"
+    url = "https://github.com/JuliaBinaryWrappers/ZstdSeekable_jll.jl/releases/download/ZstdSeekable-v1.5.6+0/ZstdSeekable.v1.5.6.i686-linux-gnu.tar.gz"
+[[ZstdSeekable]]
+arch = "i686"
+git-tree-sha1 = "bf810162233462801dacd5b778af57477130dc88"
+libc = "musl"
+os = "linux"
+
+    [[ZstdSeekable.download]]
+    sha256 = "62a4eab78d571c0bfc165a1beaa375e74ef571a598ad61125a08dc00d8703983"
+    url = "https://github.com/JuliaBinaryWrappers/ZstdSeekable_jll.jl/releases/download/ZstdSeekable-v1.5.6+0/ZstdSeekable.v1.5.6.i686-linux-musl.tar.gz"
+[[ZstdSeekable]]
+arch = "i686"
+git-tree-sha1 = "02abe3bc030a1cc4a531f9f9899243dd48d59e0a"
+os = "windows"
+
+    [[ZstdSeekable.download]]
+    sha256 = "750c3eff131f12241348bc24a428d0c701cba5ed5a1af63085f711b4c17a05ba"
+    url = "https://github.com/JuliaBinaryWrappers/ZstdSeekable_jll.jl/releases/download/ZstdSeekable-v1.5.6+0/ZstdSeekable.v1.5.6.i686-w64-mingw32.tar.gz"
+[[ZstdSeekable]]
+arch = "powerpc64le"
+git-tree-sha1 = "6d24ad747c446a27bab4bc69d70d1630a31bf7a3"
+libc = "glibc"
+os = "linux"
+
+    [[ZstdSeekable.download]]
+    sha256 = "7e50df543f00564cd0049679fd297673b24e9afdab340255fe31c9acc53721c0"
+    url = "https://github.com/JuliaBinaryWrappers/ZstdSeekable_jll.jl/releases/download/ZstdSeekable-v1.5.6+0/ZstdSeekable.v1.5.6.powerpc64le-linux-gnu.tar.gz"
+[[ZstdSeekable]]
+arch = "x86_64"
+git-tree-sha1 = "ac3ab07e247cc343466f3a2e8b922049f5f2d4cf"
+os = "macos"
+
+    [[ZstdSeekable.download]]
+    sha256 = "2da03427be943b5aa3b8100344f513d97735be897feac83fe3e51dddb13fe8c8"
+    url = "https://github.com/JuliaBinaryWrappers/ZstdSeekable_jll.jl/releases/download/ZstdSeekable-v1.5.6+0/ZstdSeekable.v1.5.6.x86_64-apple-darwin.tar.gz"
+[[ZstdSeekable]]
+arch = "x86_64"
+git-tree-sha1 = "f3c7e760b4b0f8608a894ea8a4e32561c1d5f868"
+libc = "glibc"
+os = "linux"
+
+    [[ZstdSeekable.download]]
+    sha256 = "19f6b0236b7bf391e94b17fab3de3fb425d33f07dcb55247bfd88202cc7fe91b"
+    url = "https://github.com/JuliaBinaryWrappers/ZstdSeekable_jll.jl/releases/download/ZstdSeekable-v1.5.6+0/ZstdSeekable.v1.5.6.x86_64-linux-gnu.tar.gz"
+[[ZstdSeekable]]
+arch = "x86_64"
+git-tree-sha1 = "fe84ae56a1d5bcd03a93e52c0039766fc58c7293"
+libc = "musl"
+os = "linux"
+
+    [[ZstdSeekable.download]]
+    sha256 = "22cdfbab64ac95a7aa6a0ef9869d6dc19c07db3611eeb29a5db8681e40a919d0"
+    url = "https://github.com/JuliaBinaryWrappers/ZstdSeekable_jll.jl/releases/download/ZstdSeekable-v1.5.6+0/ZstdSeekable.v1.5.6.x86_64-linux-musl.tar.gz"
+[[ZstdSeekable]]
+arch = "x86_64"
+git-tree-sha1 = "d163e5b7093cc2e42d804187df1703d6dd8e6704"
+os = "freebsd"
+
+    [[ZstdSeekable.download]]
+    sha256 = "0e62c834d906f96dcf5e94ca9e6ce2dd95d79b1324e7b05e7021d666e7404461"
+    url = "https://github.com/JuliaBinaryWrappers/ZstdSeekable_jll.jl/releases/download/ZstdSeekable-v1.5.6+0/ZstdSeekable.v1.5.6.x86_64-unknown-freebsd.tar.gz"
+[[ZstdSeekable]]
+arch = "x86_64"
+git-tree-sha1 = "9ef1ce3cc4cbb08b95fb2f8f562fab0c0c692f30"
+os = "windows"
+
+    [[ZstdSeekable.download]]
+    sha256 = "7b4592c5a62229d3c4394edfde9746f13b077680025589c46961249ad937b84d"
+    url = "https://github.com/JuliaBinaryWrappers/ZstdSeekable_jll.jl/releases/download/ZstdSeekable-v1.5.6+0/ZstdSeekable.v1.5.6.x86_64-w64-mingw32.tar.gz"
